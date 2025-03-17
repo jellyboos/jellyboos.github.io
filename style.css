@@ -84,13 +84,13 @@ body {
   display: flex; 
   justify-content: right; 
   width: 40%;
-  /* border: 2px solid red; */
+  border: 2px solid red;
   margin-bottom: 5%;
 }
 
 .home-project-photo {
-  width: 600px;
-  height: 600px;
+  width: 500px;
+  height: 500px;
   object-fit: cover; 
   border-radius: 5%;
 }
@@ -100,7 +100,7 @@ body {
   margin-left: 3%;
   margin-bottom: 5%;
   padding-left: 5%;
-  /* border: 2px solid red; */
+  border: 2px solid red;
 } 
 
 /* project titles */
