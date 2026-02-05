@@ -79,7 +79,7 @@ body {
   display: flex; 
   justify-content: right; 
   width: 40%;
-  border: 2px solid red;
+  /* border: 2px solid red; */
   margin-bottom: 5%;
 }
 
